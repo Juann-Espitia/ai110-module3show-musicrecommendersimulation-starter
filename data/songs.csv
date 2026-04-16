@@ -9,3 +9,11 @@ id,title,artist,genre,mood,energy,tempo_bpm,valence,danceability,acousticness
 8,Night Drive Loop,Neon Echo,synthwave,moody,0.75,110,0.49,0.73,0.22
 9,Focus Flow,LoRoom,lofi,focused,0.40,80,0.59,0.60,0.78
 10,Rooftop Lights,Indigo Parade,indie pop,happy,0.76,124,0.81,0.82,0.35
+11,Dirt Road Gold,Cassidy Lane,country,happy,0.62,104,0.78,0.70,0.74
+12,Concrete Jungle,MC Vero,hip-hop,intense,0.88,96,0.52,0.91,0.06
+13,Moonlit Sonata,Elena Vasquez,classical,peaceful,0.22,68,0.88,0.30,0.97
+14,Delta Blues,Old Crow Slim,blues,melancholic,0.44,84,0.39,0.48,0.83
+15,Groove Machine,Funky Parliament,funk,happy,0.80,112,0.86,0.93,0.12
+16,Iron Curtain,Shatter Point,metal,intense,0.96,180,0.24,0.58,0.04
+17,Velvet Night,Soulful Jade,r&b,romantic,0.55,88,0.79,0.72,0.31
+18,Island Breeze,Sunnyside Roots,reggae,happy,0.58,94,0.82,0.76,0.44
